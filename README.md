@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### ⚙️ My Tech Stack
+
+| Język / Technologia | Doświadczenie | Opis |
+|----------------------|----------------|------|
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ | Używam na co dzień, głównie frontend |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ⭐⭐⭐ | Projekty webowe, dashboardy, animacje |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐ | Pygame, narzędzia, automatyzacja |
+
 ![Codewars](https://github.r2v.ch/codewars?user=TenObcy125&stroke=COLOR)
 
 <!--
