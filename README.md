@@ -11,6 +11,12 @@
     I'm always exploring new tools and frameworks to level up my skills.
   </p>
 
+  <h3>My portfolio website</h3>
+  <p>
+    <p>👇 Check out my portfolio website 👇</p>
+    <a href="https://tenobcy125.github.io">My portfolio</a>
+  </p>
+
   <h3>Technologies & Tools</h3>
 
   <div>
@@ -23,6 +29,8 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-c2f5f3?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/TypeScript-d0e7ff?style=flat&logo=typescript&logoColor=007ACC" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Three.js-ececec?style=flat&logo=three.js&logoColor=000000" alt="ThreeJS" />
+    <img src="https://img.shields.io/badge/Lua-d0e7ff?style=flat&logo=lua&logoColor=000000" alt="Lua" />
+    <img src="https://img.shields.io/badge/PHP-C3B1E1?style=flat&logo=php&logoColor=000000" alt="PHP" />
   </div>
 
   <div>
