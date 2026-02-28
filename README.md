@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Welcome to my GitHub profile! 👋</h1>
 
-  <!-- Licznik wyświetleń profilu -->
   <img src="https://komarev.com/ghpvc/?username=TenObcy125&label=Profile%20views&color=0e75b6&style=flat" alt="TenObcy125" />
 
   <h3>About Me</h3>
@@ -12,16 +11,26 @@
   </p>
 
   <h3>My portfolio website</h3>
-  <p>
-    <p>👇 Check out my portfolio website 👇</p>
-    <a href="https://tenobcy125.github.io">My portfolio</a>
-  </p>
+  <p>👇 Check out my portfolio website 👇</p>
+  <a href="https://tenobcy125.github.io" target="_blank">My portfolio</a>
+
+  <br /><br />
+
+  <div>
+    <a href="https://tenobcy125.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Built%20with-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    </a>
+    <a href="https://tenobcy125.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </a>
+  </div>
 
   <h3>Technologies & Tools</h3>
 
   <div>
     <h4>Frontend</h4>
     <img src="https://img.shields.io/badge/React-282c34?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next-FCFCFC?style=flat&logo=nextdotjs&logoColor=black" alt="Next.js" />
     <img src="https://img.shields.io/badge/HTML5-f8d1bd?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-d0eaff?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-fff4c2?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -56,7 +65,6 @@
 
   <br />
 
-  <!-- Codewars stats -->
   <div>
     <h3>Codewars</h3>
     <img src="https://www.codewars.com/users/TenObcy125/badges/large" alt="Codewars Stats" />
@@ -86,4 +94,3 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
